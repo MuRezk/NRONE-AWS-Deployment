@@ -9,7 +9,7 @@ public class PController {
 	
 	@RequestMapping("/getname")
 	public String getname() {
-		return "New Relic Interview";
+		return "New Relic TAM Interview";
 	
 }
 
